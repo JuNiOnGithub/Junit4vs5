@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="TestJUNIT:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestJUNIT_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TestJUNIT/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
